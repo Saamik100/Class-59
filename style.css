@@ -1,0 +1,127 @@
+#Section_1{
+text-align: center;
+background: linear-gradient( blue 30%,  Yellow 40%, Green 50%, Red 100% );
+padding-bottom: 10%;
+z-index: 9;
+}
+
+img{
+  width: 700px;
+  height: 400px;  
+  margin-top: 40px;
+  border-radius: 600px;
+}
+
+
+#Heading{
+font-size: 50px;
+font-family: Arial, Helvetica, sans-serif;
+color: purple;
+background-color: limegreen;
+font-family: 'Shizuru', cursive;
+}
+#SubHeading {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+    background-color: limegreen;
+    }
+
+
+    #Section_2{
+margin: 50px;
+padding: 50px;
+color: orangered;
+font-family: monospace;
+text-align: center;
+
+    }
+    p{
+max-width: 600px;
+margin: 20px auto;
+line-height: 2;
+font-weight: bolder;
+font-size: 18px;
+    }
+
+h3{
+   font-size: 30px; 
+   text-decoration: underline;
+   color: blue;
+   font-family:  Calibri;
+}
+
+
+.list{
+list-style: none;
+background-color: yellow;
+z-index:999;
+position: fixed;
+margin-top: 0px;
+top:0;
+width:100%;
+
+font-size:20px;
+}
+.item{
+    color: red;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-top: 20px;
+    display: inline;
+    cursor: pointer;
+}
+.item:hover{
+font-size: 23px;
+text-decoration:underline;
+
+}
+
+#Career{
+margin-top: 100px;
+background-color: red;
+}
+#History{
+    margin-top: 100px;
+    color:yellow;
+    background-color: blue;
+    font-size: 30px; 
+    text-decoration: underline;
+
+    font-family:  Calibri;
+    }
+
+#Speeches{
+        margin-top: 100px;
+        background-color: purple;
+        }
+        #Contact{
+            margin-top: 60px;
+            
+            }
+            #Contact_Body{
+                background-color: yellow;
+                margin: 0%;
+            }
+            
+            #con h3{
+         
+ display: inline;
+ color: black;
+            }
+
+        
+            .Footer{
+                margin-bottom: 0px;
+                position: fixed;
+                bottom:0px;
+                width: 100%;
+                background-color:pink;
+                color: blue;
+                text-align: center;
+                
+            }
+            #Message{
+                margin-left: 70px;
+            }
